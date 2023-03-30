@@ -11,25 +11,15 @@ Repositório da Disciplina EEL871 - Banco de Dados, do Curso de Graduação em [
 **Nome e Código:** EEL871 - Banco de Dados
 
 - [x] Modelos conceitual, logico e fisico.
-- Modelagem conceitual.
-  Modelos logicos: relacional, hierarquico, redes e orientado a objetos.
-  Modelo relacional: base conceitual, linguagens, normalizacao.
-  Modelo hierarquico: base conceitual, linguagens.
-  Modelo redes: base conceitual, linguagem. Modelo orientado a objetos. Seguranca.
-  Integridade.
-  Recuperacao.
-  Concorrencia.
-  Banco de dados distribuido.
-
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+- [ ] Modelagem conceitual.
+- [ ] Modelos logicos: relacional, hierarquico, redes e orientado a objetos.
+- [ ] Modelo relacional: base conceitual, linguagens, normalizacao.
+- [ ] Modelo hierarquico: base conceitual, linguagens.
+- [ ] Modelo redes: base conceitual, linguagem. Modelo orientado a objetos. Seguranca.
+- [ ] Integridade.
+- [ ] Recuperacao.
+- [ ] Concorrencia.
+- [ ] Banco de dados distribuido.
 
 **Horas-Aula**: 90
 

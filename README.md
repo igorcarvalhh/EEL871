@@ -44,4 +44,25 @@ Leia o arquivo [CONTRIBUTING.md](https://github.com/GSimas/INE5406/blob/master/C
 - PATTERSON, David A.; HENNESSY, John L. “Computer Organization and Design: the hardware/software Interface”, 3rd edition, Morgan Kaufmann Publishers, San Francisco, California, USA, 2007.
 - HARRIS, David M.; HARRIS, Sarah L. “Digital Design and Computer Architecture”, 2nd edition, Morgan Kaufmann Publishers, Waltham, MA, USA, 2013.
 
-![UFSC](http://laship.ufsc.br/site/wp-content/themes/emc_completo/resource/img/filiacoes/brasao_UFSC_vertical_sigla.png) ![CTC](http://tisc.com.br/wp-content/uploads/ctcufsc.gif)
+Avaliação
+---------
+#### 3 Provas + 1 trabalho(obrigatório)
+
+Nota = (2*(P1 + P2) + Trabalho)/5
+
+Nota >=  7.0 => Aprovado
+
+Caso contrário: (Nota+P3)/2 >= 5 => Aprovado
+
+### Provas
+
+* __P1__: 11/10/2013
+* __P2__: 22/11/2013
+* __P3__: 06/12/2013
+
+### Trabalho
+
+* __Escolha do Tema__: Agosto
+* __1ª Apresentação__: Setembro(final) - Breve apresentação, em torno de 3 minutos.
+* __2ª Apresentação__: Outubro(final) - Mostrar andamento.
+* __Entrega__: Até 02/12/2013
